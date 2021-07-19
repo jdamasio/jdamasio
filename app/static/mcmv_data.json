@@ -1,0 +1,742 @@
+{
+  "data": [
+    {
+      "renda": "500",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1200",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1300",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1400",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1500",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1600",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1700",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1800",
+      "faixa_mcmv": "Faixa 1",
+      "valor_limite_imovel": "96000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "14500",
+      "com_dependente": " 29000"
+    },
+    {
+      "renda": "1900",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "12770",
+      "com_dependente": "25539"
+    },
+    {
+      "renda": "2000",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "11161",
+      "com_dependente": "22322"
+    },
+    {
+      "renda": "2100",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "9674",
+      "com_dependente": "19347"
+    },
+    {
+      "renda": "2200",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": " 8308",
+      "com_dependente": "16615"
+    },
+    {
+      "renda": "2300",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "7063",
+      "com_dependente": "14126"
+    },
+    {
+      "renda": "2400",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "5940",
+      "com_dependente": "11880"
+    },
+    {
+      "renda": "2500",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "4939",
+      "com_dependente": "9877"
+    },
+    {
+      "renda": "2600",
+      "faixa_mcmv": "Faixa 1,5",
+      "valor_limite_imovel": "144000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.0",
+      "sem_dependente": "4058",
+      "com_dependente": "8116"
+    },
+    {
+      "renda": "2700",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.50",
+      "sem_dependente": "3300",
+      "com_dependente": "6599"
+    },
+    {
+      "renda": "2800",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.50",
+      "sem_dependente": "2662",
+      "com_dependente": "5324"
+    },
+    {
+      "renda": "2862",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 1",
+      "taxa_juros_nominal": "5.50",
+      "sem_dependente": "2662",
+      "com_dependente": "5324"
+    },
+    {
+      "renda": "2863",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "5.50",
+      "sem_dependente": "2146",
+      "com_dependente": "4292"
+    },
+    {
+      "renda": "3000",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "5.50",
+      "sem_dependente": "1752",
+      "com_dependente": "3503"
+    },
+    {
+      "renda": "3100",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1478",
+      "com_dependente": "2956"
+    },
+    {
+      "renda": "3200",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3300",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3400",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3500",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3600",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3700",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3800",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "3900",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "4000",
+      "faixa_mcmv": "Faixa 2",
+      "valor_limite_imovel": "240000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "6.50",
+      "sem_dependente": "1293",
+      "com_dependente": "2585"
+    },
+    {
+      "renda": "4100",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4200",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4300",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4400",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4500",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4600",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4700",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4800",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "4900",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5000",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5100",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5200",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5300",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5400",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5500",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5600",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5700",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5724",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HIS 2",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5725",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "5900",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6000",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6100",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6200",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6300",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6400",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6500",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6600",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6700",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6800",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "6900",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7000",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "7.66",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7100",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7200",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7300",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7400",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7500",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7600",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7700",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7800",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "7900",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8000",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8100",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8200",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8300",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8400",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8500",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8600",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8700",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8800",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "8900",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    },
+    {
+      "renda": "9000",
+      "faixa_mcmv": "Faixa 3",
+      "valor_limite_imovel": "300000",
+      "faixa_pde": "HMP",
+      "taxa_juros_nominal": "9.75",
+      "sem_dependente": "",
+      "com_dependente": ""
+    }
+  ]
+}
